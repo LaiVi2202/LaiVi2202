@@ -166,7 +166,7 @@ namespace TNT
 
 <p align="center">	
 <a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=VĩKing&theme=tokyonight" alt="ngoctienTNT" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=LaiVi&theme=tokyonight" alt="LaiVi" />
 </a>
 	
 <a href="https://github.com/ngoctienTNT/ngoctien.TNT">
