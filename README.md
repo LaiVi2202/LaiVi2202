@@ -166,11 +166,11 @@ namespace TNT
 
 <p align="center">	
 <a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveLaiVi&theme=tokyonight" alt="ngoctienTNT" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
 <a href="https://github.com/ngoctienTNT/ngoctien.TNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=laivi.TNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
 
