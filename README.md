@@ -1,4 +1,4 @@
-# <p align="center">𝓣𝓻𝓪̂̀𝓷 𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
+# <p align="center">Lại Hồng Vĩ</p>
 
 <p align="center">
 	<a href="https://github.com/ngoctienTNT">
@@ -136,21 +136,21 @@ namespace TNT
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{LaiVi2202}/count.svg" alt="LaiVi2202 :: Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=LaiVi2202&theme=tokyonight&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="LaiVi2202 :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LaiVi2202&show_icons=true&theme=tokyonight" alt="LaiVi2202 :: Profile Stats" /></p>
 
 ## <p align="center">Repository pin 📌</p>
 
