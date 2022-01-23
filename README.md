@@ -146,7 +146,7 @@ namespace TNT
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="LaiVi2202 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiVi&langs_count=10&theme=tokyonight&layout=compact" alt="LaiVi2202 :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
@@ -166,7 +166,7 @@ namespace TNT
 
 <p align="center">	
 <a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=VĩKing&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
 <a href="https://github.com/ngoctienTNT/ngoctien.TNT">
