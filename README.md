@@ -22,6 +22,7 @@ namespace VixKings
             string University = "ICTU";
             string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+	string card name =" Bố là VixKings"
         }
     }
 }
