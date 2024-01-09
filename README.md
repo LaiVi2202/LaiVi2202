@@ -20,7 +20,7 @@ namespace VixKings
             string Gender = "Male";
             string Address = "Quảng Ninh, Việt Nam";
             string University = "ICTU";
-            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
+            string Skills = "Python, HTML,CSS,JavaScript,";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
 	string card name =" VixKings is me"
         }
